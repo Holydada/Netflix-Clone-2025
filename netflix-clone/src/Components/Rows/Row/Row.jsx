@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import "./Row.css";
+import "./row.css";
 import axios from "../../../utils/axios";
 import { width } from "@mui/system";
 import movieTrailer from "movie-trailer";
